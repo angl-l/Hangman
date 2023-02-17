@@ -10,6 +10,7 @@ Hangman is a hangman game website where the user can attempt to guess a secret w
 
 ```command line
 cd [directory] 
+npm install
 npm start
 ```
 
