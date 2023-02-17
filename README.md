@@ -1,6 +1,6 @@
 # Hangman
 
-Hangman is a hangman game website where the user can attempt to guess a secret word. This is a Spanish-speaking countries edition. So the word is a Spanish-speaking country. The user has 6 attempts at guessing the letters. If a letter is entered twice, the user will have another chance to enter a different letter. If the user guesses correctly, a popup will confirm this and they will be able to restart the game. If the user loses, a popup will reveal the correct answer and they will be able to restart the game.
+Hangman is a hangman game website where the user can attempt to guess a secret word. This is a Spanish-speaking countries edition. So the word is a Spanish-speaking country. The user has 6 attempts at guessing the letters. If a letter is entered twice, the user will have another chance to enter a different letter. If the user guesses correctly, a popup will confirm this and they will be able to restart the game. If the user loses, a popup will reveal the correct answer and they will be able to restart the game. If the user wants to reset the game, they will need to refresh the page.
 
 ## Installation
 1. Clone the repository into your local computer
